@@ -10,12 +10,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- <a href="https://linkedin.com/in/hani-fares-072bb5a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
-<a href="https://twitter.com/elhanif93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
- <a href="https://www.instagram.com/elhani__293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC6ICpvEY4RIjmn2fsDY-vgA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="el-hani - الهــاني" height="30" width="40" /></a>
- <a href="https://www.tiktok.com/@hanifares93" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
-  <a href="https://www.tiktok.com/@hanifares93" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="elhani" height="40" width="50" /></a>
+ <a href="https://www.linkedin.com/in/nashitbudhwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
+ <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
+<a href="https://twitter.com/BudhwaniNashit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
+
 </p>
 
 
@@ -59,20 +57,5 @@
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-fares&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=h-fares&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
-
--------
-<details>
-<summary>Preview  </summary>
-
-[name](filename 'h-fares.md')
-
-</details>
-
- ------
-Credit: [h-fares](https://github.com/h-fares)
-
-Last Edited on: 01/05/2022
